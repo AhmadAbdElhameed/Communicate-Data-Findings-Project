@@ -7,7 +7,7 @@ listing category or loan type, employment status, number of current credit lines
 number of open revolving accounts, debt to income ratio, and original loan amount.
 The dataset can be found in Udacity's repository :https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
 with feature documentation available :https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
-
+you will need to see this for removing code from slides : https://stackoverflow.com/questions/51549048/how-to-convert-jupyter-notebook-ipython-to-slideshow-not-using-command-line
 Finding :
 In the exploration, I found several interesting relationships between the dependent variable (LoanSatus) and these features:
  income range or original loan amount, and borrower APR . I choose to present the loan statuses distribution and 
@@ -38,3 +38,4 @@ income less than 50000 $
 6- I see when the interest rate for the loan is high,the chance for chargedOff or Defaulted is increased event with the people with high income range.
 
 7-As we see the highest loan amount increase chance to Defaluted ,the most Defaulted with borrowers have income more than +100,000 dollar 
+
