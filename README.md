@@ -8,6 +8,8 @@ number of open revolving accounts, debt to income ratio, and original loan amoun
 The dataset can be found in Udacity's repository :https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
 with feature documentation available :https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
 you will need to see this for removing code from slides : https://stackoverflow.com/questions/51549048/how-to-convert-jupyter-notebook-ipython-to-slideshow-not-using-command-line
+
+
 Finding :
 In the exploration, I found several interesting relationships between the dependent variable (LoanSatus) and these features:
  income range or original loan amount, and borrower APR . I choose to present the loan statuses distribution and 
